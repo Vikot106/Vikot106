@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there 👋
+### I'm Vikot, i do and enjoy various things owo
+---
+#### About me💬
+- 💻coding
+- 🔩3d rendering ( Blender, MMD )
+- 🎶vocal synths ( UTAU, VOCALOID )
+- 🎞video editing ( AviUtl, Premiere )
+- 🐺furry
 
-<!--
-**Vikot106/Vikot106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Reach me💬
+![DC](https://dcbadge.vercel.app/api/shield/567921162751967232)
 
-Here are some ideas to get you started:
+#### Languages & Frameworks💬
+![](https://img.shields.io/badge/JAVA-spring-green?logo=spring&style=for-the-badge)
+![](https://img.shields.io/badge/PYTHON-django-yellow?logo=django&style=for-the-badge)
+![](https://img.shields.io/badge/CSharp-dotnet-blue?logo=.NET&style=for-the-badge)
+![](https://img.shields.io/badge/JavaScript-vue-4FC08D?logo=Vue.js&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Currently Learning💬
+![](https://img.shields.io/badge/C++-qt-41CD52?logo=qt&style=for-the-badge)
